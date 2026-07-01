@@ -1,1 +1,1 @@
-# Netflix-Data-Analysis
+# Netflix-EDA
